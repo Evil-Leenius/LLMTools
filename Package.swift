@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "LLMTools",
     platforms: [
-        .macOS(.v12),
+        .macOS(.v13.3),
         .iOS(.v15)
     ],
     products: [
